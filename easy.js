@@ -8,4 +8,10 @@ import {
      longestWord
 } from "./easyAlgorithms/longestWord.js";
 
-console.log(longestWord("fun&!! time"));
+//console.log(longestWord("fun&!! time"));
+
+import {
+     firstFactorial
+} from "./easyAlgorithms/firstFactorial.js";
+
+console.log(firstFactorial(4));
