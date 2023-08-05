@@ -14,4 +14,10 @@ import {
      firstFactorial
 } from "./easyAlgorithms/firstFactorial.js";
 
-console.log(firstFactorial(4));
+//console.log(firstFactorial(4));
+
+import {
+     firstReverse
+} from "./easyAlgorithms/firstReverse.js";
+
+console.log(firstReverse("hello there"));
