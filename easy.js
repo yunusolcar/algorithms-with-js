@@ -20,4 +20,10 @@ import {
      firstReverse
 } from "./easyAlgorithms/firstReverse.js";
 
-console.log(firstReverse("hello there"));
+//console.log(firstReverse("hello there"));
+
+import {
+     findIntersection
+} from "./easyAlgorithms/findIntersection.js";
+
+console.log(findIntersection([" 1, 3, 4, 7, 13", " 1, 2, 4, 13, 15"]))
